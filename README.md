@@ -1,7 +1,7 @@
-#**Data sets Links**
+# **Data sets Links**
 [https://skylion007.github.io/OpenWebTextCorpus/](https://skylion007.github.io/OpenWebTextCorpus/)
 
-#**Bigram Model**
+# **Bigram Model**
 ### 1. Data Preparation:
 
 #### Downloading the Text File:
