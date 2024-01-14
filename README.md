@@ -143,8 +143,7 @@ This function generates a batch of input and target sequences for training or va
 
 In summary, this code implements a bigram language model using PyTorch, trains it on a text dataset, and demonstrates text generation based on the learned patterns. The model predicts the next character in a sequence given the preceding character, and this process is iteratively repeated to generate coherent and contextually relevant text. The training loop uses the Adam optimizer, and the model is evaluated using the estimate_loss function. The final generated text reflects the statistical patterns learned from the training data.
 
-#**GPT model**
-Certainly! Let's break down the code in more detail:
+# **GPT model**
 
 ### Data Preprocessing (First Block):
 
